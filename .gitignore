@@ -40,11 +40,6 @@ Thumbs.db
 *.zip
 *.bz2
 *.rar
-
-#sql dumps
-*.sql
-/dumps/
-
 #git
 _git_pull.php
 _pi_.php
